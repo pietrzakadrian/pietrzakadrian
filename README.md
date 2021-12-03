@@ -11,7 +11,6 @@
 ### 💡 **Latest articles**:
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How to create a microservice that handles 🎢 the queue of sending emails in NestJS](https://pietrzakadrian.com/blog/how-to-create-a-microservice-that-handles-the-queue-of-sending-emails-in-nestjs)
 - [⭐️ How did my open source project get over 1k stars on GitHub?](https://pietrzakadrian.com/blog/how-did-my-open-source-project-get-over-1k-stars-on-github)
 - [Self reference model in React Native using MobX-state-tree](https://pietrzakadrian.com/blog/self-reference-mode-in-react-native-using-mobx-state-tree)
