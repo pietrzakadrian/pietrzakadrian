@@ -7,14 +7,13 @@
 
 **Social Media**:
 
-[<img align="left" alt="pietrzakadrian" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Adrian Pietrzak" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="pietrzakadrian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="pietrzakadrian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pietrzakadrian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
----
+<br />
 
 📕 **Latest Blog Posts**:
 
@@ -28,6 +27,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://pietrzakadrian.com/blog)
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pietrzakadrian&show_icons=true&locale=en&layout=compact" alt="pietrzakadrian" /></p>
 
 [website]: https://pietrzakadrian.com
 [twitter]: https://twitter.com/pietrzakadrian
