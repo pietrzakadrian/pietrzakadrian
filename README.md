@@ -14,6 +14,21 @@
 
 <br />
 
+---
+
+### 📕 Latest Software Engineering Blog Posts
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://pietrzakadrian.com/blog)
+
+---
+
+<br />
+
 [website]: https://pietrzakadrian.com
 [twitter]: https://twitter.com/pietrzakadrian
 [instagram]: https://instagram.com/pietrzakadrian
