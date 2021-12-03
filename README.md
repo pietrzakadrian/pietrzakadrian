@@ -19,7 +19,7 @@
 - [React Native Authentication flow with MobX-state-tree](https://pietrzakadrian.com/blog/react-native-authentication-flow-with-mobx-state-tree)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://pietrzakadrian.com/blog)
+➡️ [more articles...](https://pietrzakadrian.com/blog)
 
 [website]: https://pietrzakadrian.com
 [twitter]: https://twitter.com/pietrzakadrian
