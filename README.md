@@ -21,8 +21,6 @@
 
 ➡️ [more blog posts...](https://pietrzakadrian.com/blog)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pietrzakadrian&show_icons=true&locale=en&layout=compact" alt="pietrzakadrian" /></p>
-
 [website]: https://pietrzakadrian.com
 [twitter]: https://twitter.com/pietrzakadrian
 [instagram]: https://instagram.com/pietrzakadrian
