@@ -5,6 +5,7 @@
 
 - Mostly **Node.js**, **React** and **React Native**. ✌️
 - I have my own [software engineering blog][website] where I share my solutions to the problems I encountered during my career.
+- You can contact me by e-mail ✉️ contact@pietrzakadrian.com
 
 ---
 
