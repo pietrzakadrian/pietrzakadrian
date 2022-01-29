@@ -12,11 +12,11 @@
 ### 💡 **Latest articles**:
 
 <!-- BLOG-POST-LIST:START -->
+- [„Execute functions in the following order using Promise chaining” 👨‍💻](https://pietrzakadrian.com/blog/execute-functions-in-the-following-order-using-promise-chaining)
 - [Accelerate the purchasing 🛍 process in e-commerce based on Shopware 6](https://pietrzakadrian.com/blog/accelerate-the-purchasing-process-in-e-commerce-based-on-shopware-6)
 - [How to create a microservice that handles 🎢 the queue of sending emails in NestJS](https://pietrzakadrian.com/blog/how-to-create-a-microservice-that-handles-the-queue-of-sending-emails-in-nestjs)
 - [⭐️ How did my open source project get over 1k stars on GitHub?](https://pietrzakadrian.com/blog/how-did-my-open-source-project-get-over-1k-stars-on-github)
 - [Self reference model in React Native using MobX-state-tree](https://pietrzakadrian.com/blog/self-reference-mode-in-react-native-using-mobx-state-tree)
-- [My Software Development Setup &amp; Programming Tools &lpar;October 2021&rpar;](https://pietrzakadrian.com/blog/my-software-development-setup-and-programming-tools-october-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more articles...](https://pietrzakadrian.com/blog)
