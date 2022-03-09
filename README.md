@@ -12,11 +12,11 @@
 ### 💡 **Latest articles**:
 
 <!-- BLOG-POST-LIST:START -->
+- [Jak dostać pierwszą pracę w IT? /w Weronika Szatan](https://pietrzakadrian.com/podcast/jak-dostac-pierwsza-prace-w-it-z-weronika-szatan)
+- [FAQ dla Gości](https://pietrzakadrian.com/podcast/faq-dla-gosci)
 - [NestJS Authentication Series 🔐: Part 1 - User registration](https://pietrzakadrian.com/blog/nestjs-authentication-series/user-registration)
 - [„Execute functions in the following order using Promise chaining” 👨‍💻](https://pietrzakadrian.com/blog/execute-functions-in-the-following-order-using-promise-chaining)
 - [Accelerate the purchasing 🛍 process in e-commerce based on Shopware 6](https://pietrzakadrian.com/blog/accelerate-the-purchasing-process-in-e-commerce-based-on-shopware-6)
-- [How to create a microservice that handles 🎢 the queue of sending emails in NestJS](https://pietrzakadrian.com/blog/how-to-create-a-microservice-that-handles-the-queue-of-sending-emails-in-nestjs)
-- [⭐️ How did my open source project get over 1k stars on GitHub?](https://pietrzakadrian.com/blog/how-did-my-open-source-project-get-over-1k-stars-on-github)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more articles...](https://pietrzakadrian.com/blog)
