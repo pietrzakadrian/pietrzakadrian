@@ -25,6 +25,7 @@
 
 <!-- PODCAST-LIST:START -->
 - [Jak dostać pierwszą pracę w IT? /w Weronika Szatan](https://pietrzakadrian.com/podcast/jak-dostac-pierwsza-prace-w-it-z-weronika-szatan)
+- [FAQ dla Gości](https://pietrzakadrian.com/podcast/faq-dla-gosci)
 <!-- PODCAST-LIST:END -->
 
 ➡️ [more podcasts...](https://pietrzakadrian.com/podcast)
