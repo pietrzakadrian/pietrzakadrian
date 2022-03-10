@@ -21,13 +21,13 @@
 
 ➡️ [more articles...](https://pietrzakadrian.com/blog)
 
-### 🎙 **Latest podcasts (🇵🇱)**:
+### 🎙 **Latest podcasts**:
 
 <!-- PODCAST-POST-LIST:START -->
 - [Jak dostać pierwszą pracę w IT? /w Weronika Szatan](https://pietrzakadrian.com/podcast/jak-dostac-pierwsza-prace-w-it-z-weronika-szatan)
 <!-- PODCAST-POST-LIST:END -->
 
-➡️ [more podcasts...](https://pietrzakadrian.com/podcast)
+➡️ [more podcasts... 🇵🇱](https://pietrzakadrian.com/podcast)
 
 [website]: https://pietrzakadrian.com
 [twitter]: https://twitter.com/pietrzakadrian
