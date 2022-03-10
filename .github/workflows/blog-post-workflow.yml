@@ -14,4 +14,4 @@ jobs:
       - name: Pull in pietrzakadrian.com posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://pietrzakadrian.com/rss"
+          feed_list: "https://pietrzakadrian.com/blog/rss"
