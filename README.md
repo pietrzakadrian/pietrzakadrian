@@ -24,7 +24,7 @@
 ### 🎙 **Latest podcasts** 🇵🇱:
 
 <!-- PODCAST-LIST:START -->
-- [Jak dostać pierwszą pracę w IT? w/ Weronika Szatan](https://pietrzakadrian.com/podcast/jak-dostac-pierwsza-prace-w-it-z-weronika-szatan)
+- [Jak dostać pierwszą pracę w IT?](https://pietrzakadrian.com/podcast/jak-dostac-pierwsza-prace-w-it-z-weronika-szatan)
 <!-- PODCAST-LIST:END -->
 
 ➡️ [more podcasts...](https://pietrzakadrian.com/podcast)
