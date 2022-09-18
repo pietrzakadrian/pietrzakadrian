@@ -12,8 +12,8 @@
 ### 💡 **Latest articles**:
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Development &amp; Programming Tools in 2022](https://pietrzakadrian.com/blog/software-development-and-programming-tools-in-2022)
 - [NestJS Authentication Series 🔐: Part 1 - User registration](https://pietrzakadrian.com/blog/nestjs-authentication-series/user-registration)
-- [„Execute functions in the following order using Promise chaining” 👨‍💻](https://pietrzakadrian.com/blog/execute-functions-in-the-following-order-using-promise-chaining)
 - [Accelerate the purchasing 🛍 process in e-commerce based on Shopware 6](https://pietrzakadrian.com/blog/accelerate-the-purchasing-process-in-e-commerce-based-on-shopware-6)
 - [How to create a microservice that handles 🎢 the queue of sending emails in NestJS](https://pietrzakadrian.com/blog/how-to-create-a-microservice-that-handles-the-queue-of-sending-emails-in-nestjs)
 - [⭐️ How did my open source project get over 1k stars on GitHub?](https://pietrzakadrian.com/blog/how-did-my-open-source-project-get-over-1k-stars-on-github)
