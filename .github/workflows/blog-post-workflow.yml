@@ -15,15 +15,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://pietrzakadrian.com/blog/rss"
-
-  update-readme-with-podcast:
-    name: Update this repo's README with latest podcasts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in pietrzakadrian.com posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://pietrzakadrian.com/podcast/rss"
-          comment_tag_name: "PODCAST-LIST"
