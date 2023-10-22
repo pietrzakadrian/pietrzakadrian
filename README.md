@@ -12,7 +12,6 @@
 
 ➡️ [more articles...](https://pietrzakadrian.com/blog)
 
-[website]: https://pietrzakadrian.com
-[twitter]: https://twitter.com/pietrzakadrian
-[instagram]: https://instagram.com/pietrzakadrian
-[linkedin]: https://linkedin.com/in/pietrzakadrian
+### 🏅 **Certificates**:
+
+[![AWS Certified Cloud Practitioner](./media/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/aeba96c1-d7f0-4d1d-bf1c-6555f1001746/embedded)
